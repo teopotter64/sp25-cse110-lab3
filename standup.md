@@ -2,34 +2,42 @@
 
 ## Date and Time
 
+04/22/2025
+
 ## Attendance
 
-Participants:
+Participants: Adam, John, Blake
 
-Missing:
+Missing: Richard
 
 ## Today's Topics
 
-...
+We will go over where we are all at in Module 5 and what we did this week. We will plan our next steps.
 
 ## Recap and Progress
 
-- Member 1:...
+- Adam: I finished half of Module 5.
   
-- Member 2:...
-
-## New Project Materials
+- John: I finished Module 5 and read up on Module 6.
 
 ...
 
+## New Project Materials
+
+A new textbook, will be shared via email.
+
 ## TODO Next
 
-- Member 1:...
+- Adam: Finish the rest of Module 5.
   
-- Member 2:...
+- John: Help others with Module 5 before starting Module 6.
+
+...
 
 ## Comments
 
-- Member 1:...
+- Adam: Elements outside of the project dirsupt my time to work on the modules. 
   
-- Member 2:...
+- John: I might not be able to attend next week's meeting due to a scheduling conflict.
+
+...
