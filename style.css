@@ -18,7 +18,7 @@ header {
 }
 
 #textbox {
-    background-color: lightskyblue;
+    background-color: color-mix(in srgb, rgb(43, 147, 152) 50%, rgb(87, 199, 18) 50%);
 }
 
 h2 {
@@ -123,7 +123,7 @@ button:active{
 }
 
 footer {
-    color: color(orange 1 0.5 0);
+    color: color(srgb 1 0.5 0);
 }
 
 p {
