@@ -13,6 +13,14 @@ header {
     color: rgb(0,100,200)
 }
 
+.test {
+    color: purple
+}
+
+#textbox {
+    background-color: lightskyblue;
+}
+
 h2 {
     color: #6a5acd;
     font-size: 3em;
@@ -76,6 +84,11 @@ textarea {
     padding-left: 4em;
 }
 
+textarea, li {
+    color: rgb(77, 13, 141);
+    font-weight: bold;
+}
+
 button {
     max-width: 100px;
     width: 200px;
@@ -119,6 +132,50 @@ p {
     display: inline-block;
     position: static;
 }
+
+* {
+    text-align: center;
+}
+
+ol[type="I" i] {
+    background: green;
+}
+
+li li {
+    border-width: 4px;
+    border-style: solid;
+    border-color: yellowgreen;
+    border-radius: 10%;
+}
+
+ol > li {
+    color:yellowgreen;
+}
+
+h2 ~ p {
+    font-style: italic;
+}
+
+h2 + strong {
+    font-style: italic;
+}
+
+h2.formName {
+    font-family:customFont;
+}
+
+h1:has(+ h3) {
+    color:blue;
+}
+
+
+p {
+    span {
+        color: red;
+        font-weight: bold;
+    }
+}
+
 
 
 /*Iphone SE*/

@@ -16,7 +16,7 @@
         <a href="#Form">Form</a> 
       </nav>
       <h1>Team Meeting Schedule</h1>
-      <h3>Date: 04/14/2025</h3>
+      <h3 class="test">Date: 04/14/2025</h3>
       <h3>Meeting Topic: Check-ins</h3>
       <h3>Attendance: Name1, Name2, Name3...</h3>
       <h3>Agenda: In today's meeting, we will go over 
@@ -55,19 +55,21 @@
       </section>
       <hr>
       <section>
-        <h2>Form</h2>
+        <h2 class="formName">Form</h2>
         <div id="Form"></div>
         <form>
           <fieldset>
             <p><b>Required:</b></p>
+            <li>
             <ul>
               <li>text</li>
               <li>radio</li>
               <li>checkbox</li>
               <li>date</li>
             </ul>
+            </li>
             <p><i>From left to right:</i></p>
-            <ol>
+            <ol type="I">
               <li>text</li>
               <li>radio</li>
               <li>checkbox</li>
@@ -79,7 +81,7 @@
             <input type="date">	
           </fieldset>
           <br>
-          <textarea>This is a text area. Please write review.</textarea>
+          <textarea id="textbox">This is a text area. Please write review.</textarea>
           <p>Select favorite module from Datalist:</p>
           <input list="modules">
           <datalist id="modules">
@@ -107,7 +109,7 @@
       <p>This website is for reporting about teamm meetings.</p>
     </details>
     <footer>
-      <p>This is a footer. </p>
+      <p>This is a <span>footer</span>.</p>
       <a href="https://www.jetpunk.com/">Group Activity on JetPunk!</a>
     </footer>
   </body>
