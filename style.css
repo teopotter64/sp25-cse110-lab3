@@ -123,7 +123,7 @@ button:active{
 }
 
 footer {
-    color: color(srgb 1 0.5 0);
+    color: color(orange 1 0.5 0);
 }
 
 p {
@@ -169,7 +169,7 @@ h1:has(+ h3) {
 }
 
 
-p {
+.nested {
     & > span {
         color: red;
         font-weight: bold;
